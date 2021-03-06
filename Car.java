@@ -71,5 +71,4 @@ public class Car {
         System.out.print("\nData Cleared!");
         pause();
     }
-
-    }
+ }
